@@ -1,4 +1,7 @@
-<h1 align="center">Hi! I'm Felipe Ribeiro</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6CBC34&center=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hi!+I'm+Felipe+Ribeiro">
+</h1>
+
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e8/d5/a3/e8d5a3b3a383211eb74d02a26115defa.gif">
 <h3 align="left">📚 I'm currently studying Software Engineering at Inatel</h3>
 
@@ -36,9 +39,3 @@
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="38" alt="flutter logo"  />
 </div>
-
-##
-
-<img src="https://raw.githubusercontent.com/feliperibeiro12/feliperibeiro12/output/snake.svg" alt="Snake animation" />
-
-###
