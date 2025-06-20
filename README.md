@@ -40,6 +40,8 @@
 
 ###
 
+<hr style="border: 1px dashed #ff0000; opacity: 0.5">
+
 <h3 align="left">✉️ Contact me:</h3>
 
 ###
