@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">🎓 Currently in the 9th semester of Software Engineering<br><br>🎯 Specialization in Test Engineering (Quality Assurance)<br><br>🔍 Interested in software quality and test automation</h5>
+<h5 align="left">🎓 Currently in the 9th semester of Software Engineering<br><br></h5>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h5 align="left">🧪 QA:  Cypress, Jest, Postman, Selenium, JMeter, K6<br><br>💻 Languages: Node.js, Python, React Native, C++, Java<br><br>🗄️ DBs: MongoDB, MySQL, Firebase, Cassandra<br><br>📋 Methodologies: Scrum, Kanban, Jira</h5>
+<h5 align="left">💻 Languages: Node.js, Python, React Native, C++, Java<br><br>🧪 QA:  Cypress, Jest, Postman, Selenium, JMeter, K6<br><br>🗄️ DBs: MongoDB, MySQL, Firebase, PostgreSQL<br><br>📋 Methodologies: Scrum, Kanban, Jira</h5>
 
 ###
 
