@@ -2,18 +2,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6CBC34&center=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hi!+I'm+Felipe+Ribeiro">
 </h3>
 
+###
+
 ## About me
 > Full Stack Developer | Backend-focused
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="40" height="40"/> Technologies I like the most: ...
+<h5 align="left">🎓 Technologies I like the most: ...<br><br></h5>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="40" height="40"/> Software Engineer student at [INATEL](https://inatel.br/home/).
+<h5 align="left">🎓 Software Engineer student at [INATEL](https://inatel.br/home/).<br><br></h5>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="40" height="40"/> I'm currently studying NestJS.
-
-###
-
-<h5 align="left">🎓 Currently in the 9th semester of Software Engineering<br><br></h5>
+<h5 align="left">🎓 I'm currently studying NestJS.<br><br></h5>
 
 ###
 
