@@ -20,7 +20,7 @@
 
 ###
 
-<h5 align="left">💻 Languages: Node.js, Python, React Native, C++, Java<br><br>🧪 QA:  Cypress, Jest, Postman, Selenium, JMeter, K6<br><br>🗄️ DBs: MongoDB, MySQL, Firebase, PostgreSQL<br><br>📋 Methodologies: Scrum, Kanban, Jira</h5>
+<h5 align="left">💻 Languages: Node.js (Nest and Express), TypeScript, Python (Django), React, C++, Java<br><br>🧪 QA:  Cypress, Jest, Postman, Insomnia, Selenium, JMeter, K6<br><br>🗄️ DBs: PostgreSQL, MySQL, Firebase, MongoDB <br><br>📋 Methodologies: Scrum, Kanban, Jira</h5>
 
 ###
 
