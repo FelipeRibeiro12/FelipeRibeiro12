@@ -5,7 +5,7 @@
 ###
 
 ## About me
-<h5 align="left">💻 Full Stack Developer | Backend-focused<br><br></h5>
+## Full Stack Developer | Backend-focused
 
 <h5 align="left">⚙️ Technologies I like the most: ...<br><br></h5>
 
