@@ -27,7 +27,7 @@
 <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp"></a>&nbsp;
 <a href="https://www.oracle.com/java"><img src="https://skillicons.dev/icons?i=java"></a>
 
-<br><br>
+<br>
 
 🧪 <b>QA</b><br>
 <a href="https://www.cypress.io"><img src="https://skillicons.dev/icons?i=cypress"></a>&nbsp;
@@ -37,7 +37,7 @@
 <a href="https://jmeter.apache.org"><img src="https://skillicons.dev/icons?i=jmeter"></a>&nbsp;
 <a href="https://k6.io"><img src="https://skillicons.dev/icons?i=k6"></a>
 
-<br><br>
+<br>
 
 🗄️ <b>DBs</b><br>
 <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres"></a>&nbsp;
@@ -45,7 +45,7 @@
 <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase"></a>&nbsp;
 <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb"></a>
 
-<br><br>
+<br>
 
 📋 <b>Methodologies</b><br>
 Scrum · Kanban · Jira
