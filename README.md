@@ -7,15 +7,15 @@
 ## About me
 > Full Stack Developer | Backend-focused
 
-<h5 align="left">🎓 Technologies I like the most: ...<br><br></h5>
+<h5 align="left">⚙️ Technologies I like the most: ...<br><br></h5>
 
-<h5 align="left">🎓 Software Engineer student at [INATEL](https://inatel.br/home/).<br><br></h5>
+<h5 align="left">🎓 Software Engineering student at <a href="https://inatel.br/home/">INATEL</a>.<br><br></h5>
 
-<h5 align="left">🎓 I'm currently studying NestJS.<br><br></h5>
+<h5 align="left">📚 I'm currently studying NestJS.<br><br></h5>
 
 
-## 🛠️ Tech Stack
-💻 <b>Technologies</b><br>
+## Tech Stack
+🛠️ <b>Technologies</b><br>
 <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts"></a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js"></a>&nbsp;
 <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs"></a>&nbsp;
@@ -27,8 +27,6 @@
 <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp"></a>&nbsp;
 <a href="https://www.oracle.com/java"><img src="https://skillicons.dev/icons?i=java"></a>
 
-<br>
-
 🧪 <b>QA</b><br>
 <a href="https://www.cypress.io"><img src="https://skillicons.dev/icons?i=cypress"></a>&nbsp;
 <a href="https://jestjs.io"><img src="https://skillicons.dev/icons?i=jest"></a>&nbsp;
@@ -37,18 +35,14 @@
 <a href="https://jmeter.apache.org"><img src="https://skillicons.dev/icons?i=jmeter"></a>&nbsp;
 <a href="https://k6.io"><img src="https://skillicons.dev/icons?i=k6"></a>
 
-<br>
-
 🗄️ <b>DBs</b><br>
 <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres"></a>&nbsp;
 <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql"></a>&nbsp;
 <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase"></a>&nbsp;
 <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb"></a>
 
-<br>
-
 📋 <b>Methodologies</b><br>
-Scrum · Kanban · Jira
+Scrum | Kanban | Jira
 
 ## Contact
 <a href="https://www.linkedin.com/in/felipeg-ribeiro"><img src="https://skillicons.dev/icons?i=linkedin"></a>&nbsp;&nbsp;
@@ -60,18 +54,8 @@ or check my resume [here](link)!
 ## Personal Philosophy
 > ...
 
-<hr style="border: 1px dashed #ff0000; opacity: 0.5">
-
-###
-
-<h4 align="left"></h4>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/feliperibeiro12/feliperibeiro12/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/feliperibeiro12/feliperibeiro12/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/feliperibeiro12/feliperibeiro12/output/pacman-contribution-graph.svg">
 </picture>
-
-###
