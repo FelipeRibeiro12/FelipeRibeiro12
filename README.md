@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6CBC34&center=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hi!+I'm+Felipe+Ribeiro">
 </h3>
 
-<h3 align="left">👨‍💻 About me:</h3>
+## About me
 > Full Stack Developer | Backend-focused
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="40" height="40"/> Technologies I like the most: ...
@@ -24,8 +24,6 @@
 <hr style="border: 1px dashed #ff0000; opacity: 0.5">
 
 <h3 align="left">🛠️ Tech Stack</h3>
-
-<h5 align="left">
 💻 <b>Technologies</b><br>
 <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts"></a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js"></a>&nbsp;
@@ -60,7 +58,6 @@
 
 📋 <b>Methodologies</b><br>
 Scrum · Kanban · Jira
-</h5>
 
 ## Contact
 <a href="https://www.linkedin.com/in/felipeg-ribeiro"><img src="https://skillicons.dev/icons?i=linkedin"></a>&nbsp;&nbsp;
@@ -73,7 +70,6 @@ or check my resume [here](link)!
 > ...
 
 <hr style="border: 1px dashed #ff0000; opacity: 0.5">
-
 
 ###
 
