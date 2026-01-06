@@ -13,15 +13,8 @@
 
 <h5 align="left">🎓 I'm currently studying NestJS.<br><br></h5>
 
-###
 
-<h4 align="left"></h4>
-
-###
-
-<hr style="border: 1px dashed #ff0000; opacity: 0.5">
-
-<h3 align="left">🛠️ Tech Stack</h3>
+## 🛠️ Tech Stack
 💻 <b>Technologies</b><br>
 <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts"></a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js"></a>&nbsp;
