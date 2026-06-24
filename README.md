@@ -7,25 +7,38 @@
 ## About me
 > Full Stack Developer | Backend-focused
 
-<h5 align="left">⚙️ Technologies I like the most: ...<br><br></h5>
-
 <h5 align="left">🎓 Software Engineering student at <a href="https://inatel.br/home/">INATEL</a>.<br><br></h5>
 
-<h5 align="left">📚 I'm currently studying NestJS.<br><br></h5>
+<h5 align="left">📚 I'm currently studying Nest and SpringBoot<br><br></h5>
 
 
 ## Tech Stack
 🛠️ <b>Technologies</b><br>
+<a href="https://www.oracle.com/java"><img src="https://skillicons.dev/icons?i=java"></a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot"></a>&nbsp;
 <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts"></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js"></a>&nbsp;
 <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs"></a>&nbsp;
 <a href="https://nestjs.com"><img src="https://skillicons.dev/icons?i=nestjs"></a>&nbsp;
 <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express"></a>&nbsp;
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py"></a>&nbsp;
-<a href="https://www.djangoproject.com"><img src="https://skillicons.dev/icons?i=django"></a>&nbsp;
-<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react"></a>&nbsp;
 <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp"></a>&nbsp;
-<a href="https://www.oracle.com/java"><img src="https://skillicons.dev/icons?i=java"></a>
+
+📡 <br>Messaging & Caching</br><br>
+<a href="https://kafka.apache.org"><img src="https://skillicons.dev/icons?i=kafka" alt="Apache Kafka"></a>&nbsp;
+<a href="https://www.rabbitmq.com"><img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ"></a>&nbsp;
+<a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" alt="Redis"></a>
+
+☁️ <br>DevOps & CI/CD</br><br>
+<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"></a>&nbsp;
+<a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"></a>&nbsp;
+<a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions"></a>&nbsp;
+<a href="https://www.jenkins.io"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins"></a>
+
+🗄️ <b>Databases</b><br>
+<a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres"></a>&nbsp;
+<a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql"></a>&nbsp;
+<a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase"></a>&nbsp;
+<a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb"></a>
 
 🧪 <b>QA</b><br>
 <a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman"></a>&nbsp;
@@ -36,16 +49,6 @@
 <a href="https://jmeter.apache.org"><img src="https://skillicons.dev/icons?i=jmeter"></a>&nbsp;
 <a href="https://k6.io"><img src="https://skillicons.dev/icons?i=k6"></a>
 
-🗄️ <b>DBs</b><br>
-<a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres"></a>&nbsp;
-<a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql"></a>&nbsp;
-<a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase"></a>&nbsp;
-<a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb"></a>
-
-📋 <b>Methodologies</b><br>
-<a href="https://www.scrum.org"><img src="https://skillicons.dev/icons?i=scrum"></a>&nbsp;
-<a href="https://kanbanize.com/kanban-resources/getting-started/what-is-kanban"><img src="https://skillicons.dev/icons?i=kanban"></a>&nbsp;
-<a href="https://www.atlassian.com/software/jira"><img src="https://skillicons.dev/icons?i=jira"></a>
 
 ## Contact
 <a href="https://www.linkedin.com/in/felipeg-ribeiro"><img src="https://skillicons.dev/icons?i=linkedin"></a>&nbsp;&nbsp;
