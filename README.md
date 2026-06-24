@@ -23,12 +23,12 @@
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py"></a>&nbsp;
 <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp"></a>&nbsp;
 
-📡 <br>Messaging & Caching</br><br>
-<a href="https://kafka.apache.org"><img src="https://skillicons.dev/icons?i=kafka" alt="Apache Kafka"></a>&nbsp;
+📡 <b>Messaging & Caching</b><br>
 <a href="https://www.rabbitmq.com"><img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ"></a>&nbsp;
+<a href="https://kafka.apache.org"><img src="https://skillicons.dev/icons?i=kafka" alt="Apache Kafka"></a>&nbsp;
 <a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" alt="Redis"></a>
 
-☁️ <br>DevOps & CI/CD</br><br>
+☁️ <b>DevOps & CI/CD</b><br>
 <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"></a>&nbsp;
 <a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"></a>&nbsp;
 <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions"></a>&nbsp;
