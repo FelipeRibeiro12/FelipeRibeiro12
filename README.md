@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E14,45:6D28D9,100:22D3EE&height=190&section=header&text=Felipe%20Ribeiro&fontSize=44&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=Backend%20Developer%20%C2%B7%20Web2%20%26%20Web3&descAlignY=54&descSize=17" width="100%" alt="Felipe Ribeiro — Backend Developer, Web2 and Web3" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:22D3EE&height=180&section=header&text=Felipe%20Ribeiro&fontSize=44&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn" width="100%" alt="Felipe Ribeiro" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=APIs+,+distributed+systems+and+smart+contracts" alt="APIs, distributed systems, smart contracts" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&lines=Backend+Developer+%C2%B7+Web2+and+Web3;APIs%2C+distributed+systems+and+smart+contracts" alt="Backend Developer — Web2 and Web3. APIs, distributed systems and smart contracts" />
 
 <br><br>
 
@@ -27,9 +27,9 @@ Interested in economics and financial markets, in both **centralized and decentr
 pragma solidity ^0.8.24;
 
 contract Felipe {
-    string   public role     = "Backend Developer";
-    string   public studying = "Solidity & the EVM ecosystem";
-    string[3] public stack   = ["TypeScript", "Go", "Java"];
+    string    public role     = "Backend Developer";
+    string    public studying = "Solidity & the EVM ecosystem";
+    string[3] public stack    = ["TypeScript", "Go", "Java"];
 
     function focus() external pure returns (string memory) {
         return "Transactions, state and consistency - on-chain and off";
@@ -47,6 +47,7 @@ contract Felipe {
 
 ![Solidity](https://img.shields.io/badge/Solidity-0B0E14?style=for-the-badge&logo=solidity&logoColor=A78BFA)
 ![EVM](https://img.shields.io/badge/EVM-0B0E14?style=for-the-badge&logo=ethereum&logoColor=A78BFA)
+![dApps](https://img.shields.io/badge/dApps-0B0E14?style=for-the-badge&logoColor=A78BFA)
 ![Foundry](https://img.shields.io/badge/Foundry-0B0E14?style=for-the-badge&logoColor=A78BFA)
 ![Hardhat](https://img.shields.io/badge/Hardhat-0B0E14?style=for-the-badge&logoColor=A78BFA)
 ![viem](https://img.shields.io/badge/viem-0B0E14?style=for-the-badge&logoColor=A78BFA)
@@ -191,4 +192,4 @@ REST API for forum management — authentication, CRUD, DTO validation and entit
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,55:6D28D9,100:0B0E14&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6D28D9&height=110&section=footer" width="100%" alt="" />
