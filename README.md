@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=TypeScript+%E2%80%A2+Go+%E2%80%A2+Java+%E2%80%A2+Solidity;APIs+and+distributed+systems;On-chain+and+off-chain" alt="APIs, distributed systems, smart contracts" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=APIs+,+distributed+systems+and+smart+contracts" alt="APIs, distributed systems, smart contracts" />
 
 <br><br>
 
