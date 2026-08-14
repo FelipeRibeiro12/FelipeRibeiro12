@@ -1,53 +1,128 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E14,45:6D28D9,100:22D3EE&height=190&section=header&text=Felipe%20Ribeiro&fontSize=44&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=Backend%20Developer%20%C2%B7%20Web2%20%26%20Web3&descAlignY=54&descSize=17" width="100%" alt="Felipe Ribeiro — Backend Developer, Web2 and Web3" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&width=520&lines=Backend+Developer;Java+%E2%80%A2+TypeScript+%E2%80%A2+Go+%E2%80%A2+Solidity;Building+across+Web2+and+Web3" alt="Backend Developer — Java, TypeScript, Go, Solidity — building across Web2 and Web3" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=TypeScript+%E2%80%A2+Go+%E2%80%A2+Java+%E2%80%A2+Solidity;APIs+and+distributed+systems;On-chain+and+off-chain" alt="TypeScript, Go, Java, Solidity — APIs and distributed systems, on-chain and off-chain" />
 
-<br>
+<br><br>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/EVM-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B0E14?style=for-the-badge&logo=typescript&logoColor=A78BFA)
+![Go](https://img.shields.io/badge/Go-0B0E14?style=for-the-badge&logo=go&logoColor=A78BFA)
+![Java](https://img.shields.io/badge/Java-0B0E14?style=for-the-badge&logo=openjdk&logoColor=A78BFA)
+![Solidity](https://img.shields.io/badge/Solidity-0B0E14?style=for-the-badge&logo=solidity&logoColor=A78BFA)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=2" width="100%" alt="" />
 
-## About
+## `0x01` — About
 
 Backend developer and Software Engineering student at **[INATEL](https://inatel.br/home/)**, graduating in December 2026.
-I build APIs and distributed systems in **Java (Spring Boot)**, **TypeScript (NestJS)** and **Go** — across both Web2 and Web3.
+I build APIs and distributed systems in **TypeScript (NestJS)**, **Go** and **Java (Spring Boot)** — across both Web2 and Web3.
 
-Interested in economics and financial markets, in both **centralized and decentralized finance**. I study the subject independently, including technical analysis and crypto assets. Currently working with **Solidity** and the **EVM ecosystem**, integrating smart contracts into backend applications.
+Interested in economics and financial markets, in both **centralized and decentralized finance**. I study the subject independently, including technical analysis and crypto assets. Currently studying **Solidity**, integrating smart contracts into backend applications.
 
-<sub>🎓 Certified Blockchain Engineer (EIA, 2026) &nbsp;·&nbsp; 🌍 Open to remote work</sub>
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.24;
 
----
+contract Felipe {
+    string   public role     = "Backend Developer";
+    string   public studying = "Solidity & the EVM ecosystem";
+    string[3] public stack   = ["TypeScript", "Go", "Java"];
 
-## ⛓️ Web3
+    function focus() external pure returns (string memory) {
+        return "Transactions, state and consistency - on-chain and off";
+    }
+}
+```
 
-The problems I care about are the same on both sides — transactions, state and consistency — with different assumptions underneath.
+<sub>🌍 Open to remote work</sub>
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![EVM](https://img.shields.io/badge/EVM-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logoColor=black)
-![viem](https://img.shields.io/badge/viem-1C1B1F?style=flat-square)
-![ethers.js](https://img.shields.io/badge/ethers.js-2535A0?style=flat-square)
-![Web3](https://img.shields.io/badge/Smart_Contracts-627EEA?style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=2" width="100%" alt="" />
 
-**Focus areas** — smart contract development on EVM chains · backend services that read and write on-chain state · event indexing and transaction consistency · wallet and testnet integration.
+## `0x02` — Web3
 
----
+<div align="center">
 
-## 🚀 Featured Projects
+![Solidity](https://img.shields.io/badge/Solidity-0B0E14?style=for-the-badge&logo=solidity&logoColor=A78BFA)
+![EVM](https://img.shields.io/badge/EVM-0B0E14?style=for-the-badge&logo=ethereum&logoColor=A78BFA)
+![Foundry](https://img.shields.io/badge/Foundry-0B0E14?style=for-the-badge&logoColor=A78BFA)
+![Hardhat](https://img.shields.io/badge/Hardhat-0B0E14?style=for-the-badge&logoColor=A78BFA)
+![viem](https://img.shields.io/badge/viem-0B0E14?style=for-the-badge&logoColor=A78BFA)
+![ethers.js](https://img.shields.io/badge/ethers.js-0B0E14?style=for-the-badge&logoColor=A78BFA)
+![Go](https://img.shields.io/badge/Go-0B0E14?style=for-the-badge&logo=go&logoColor=A78BFA)
+
+</div>
+
+> **Focus** — backend services that read and write on-chain state · transaction jobs and deploy scripts · event indexing with idempotency and reorg handling · wallet and testnet integration · reading and writing simple EVM contracts.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=2" width="100%" alt="" />
+
+## `0x03` — Stack
+
+<table>
+<tr><td width="150"><b>Backend</b></td><td>
+
+![Go](https://img.shields.io/badge/Go-0B0E14?style=flat-square&logo=go&logoColor=22D3EE)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B0E14?style=flat-square&logo=typescript&logoColor=22D3EE)
+![Node.js](https://img.shields.io/badge/Node.js-0B0E14?style=flat-square&logo=nodedotjs&logoColor=22D3EE)
+![NestJS](https://img.shields.io/badge/NestJS-0B0E14?style=flat-square&logo=nestjs&logoColor=22D3EE)
+![Java](https://img.shields.io/badge/Java-0B0E14?style=flat-square&logo=openjdk&logoColor=22D3EE)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0B0E14?style=flat-square&logo=springboot&logoColor=22D3EE)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-0B0E14?style=flat-square&logo=spring&logoColor=22D3EE)
+![Python](https://img.shields.io/badge/Python-0B0E14?style=flat-square&logo=python&logoColor=22D3EE)
+
+</td></tr>
+<tr><td><b>Architecture</b></td><td>
+
+![Microservices](https://img.shields.io/badge/Microservices-0B0E14?style=flat-square&logoColor=22D3EE)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-0B0E14?style=flat-square&logo=apachekafka&logoColor=22D3EE)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0B0E14?style=flat-square&logo=rabbitmq&logoColor=22D3EE)
+![Redis](https://img.shields.io/badge/Redis-0B0E14?style=flat-square&logo=redis&logoColor=22D3EE)
+
+</td></tr>
+<tr><td><b>Cloud & DevOps</b></td><td>
+
+![Docker](https://img.shields.io/badge/Docker-0B0E14?style=flat-square&logo=docker&logoColor=22D3EE)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0B0E14?style=flat-square&logo=kubernetes&logoColor=22D3EE)
+![AWS](https://img.shields.io/badge/AWS-0B0E14?style=flat-square&logo=amazonwebservices&logoColor=22D3EE)
+![GCP](https://img.shields.io/badge/GCP-0B0E14?style=flat-square&logo=googlecloud&logoColor=22D3EE)
+![Terraform](https://img.shields.io/badge/Terraform-0B0E14?style=flat-square&logo=terraform&logoColor=22D3EE)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0B0E14?style=flat-square&logo=githubactions&logoColor=22D3EE)
+![Jenkins](https://img.shields.io/badge/Jenkins-0B0E14?style=flat-square&logo=jenkins&logoColor=22D3EE)
+
+</td></tr>
+<tr><td><b>Data</b></td><td>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B0E14?style=flat-square&logo=postgresql&logoColor=22D3EE)
+![MySQL](https://img.shields.io/badge/MySQL-0B0E14?style=flat-square&logo=mysql&logoColor=22D3EE)
+![MongoDB](https://img.shields.io/badge/MongoDB-0B0E14?style=flat-square&logo=mongodb&logoColor=22D3EE)
+![Prisma](https://img.shields.io/badge/Prisma-0B0E14?style=flat-square&logo=prisma&logoColor=22D3EE)
+![Hibernate](https://img.shields.io/badge/Hibernate-0B0E14?style=flat-square&logo=hibernate&logoColor=22D3EE)
+
+</td></tr>
+<tr><td><b>QA</b></td><td>
+
+![JUnit](https://img.shields.io/badge/JUnit-0B0E14?style=flat-square&logo=junit5&logoColor=22D3EE)
+![Jest](https://img.shields.io/badge/Jest-0B0E14?style=flat-square&logo=jest&logoColor=22D3EE)
+![Cypress](https://img.shields.io/badge/Cypress-0B0E14?style=flat-square&logo=cypress&logoColor=22D3EE)
+![Postman](https://img.shields.io/badge/Postman-0B0E14?style=flat-square&logo=postman&logoColor=22D3EE)
+![k6](https://img.shields.io/badge/k6-0B0E14?style=flat-square&logo=k6&logoColor=22D3EE)
+![JMeter](https://img.shields.io/badge/JMeter-0B0E14?style=flat-square&logo=apachejmeter&logoColor=22D3EE)
+
+</td></tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=2" width="100%" alt="" />
+
+## `0x04` — Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### SafeRoute
+### ◈ SafeRoute
 Real-time sensor monitoring and alerting on a microservices architecture — API Gateway, Eureka, Config Server, and Horizontal Pod Autoscaling on Kubernetes.
 
 `Java` `Spring Cloud` `Kubernetes` `PostgreSQL`
@@ -57,7 +132,7 @@ Real-time sensor monitoring and alerting on a microservices architecture — API
 </td>
 <td width="50%" valign="top">
 
-### TrimTech
+### ◈ TrimTech
 End-to-end scheduling SaaS with JWT authentication, HttpOnly cookie sessions and server-side validation middleware.
 
 `TypeScript` `NestJS` `Next.js` `Prisma`
@@ -69,7 +144,7 @@ End-to-end scheduling SaaS with JWT authentication, HttpOnly cookie sessions and
 <tr>
 <td width="50%" valign="top">
 
-### Chatbot IWS
+### ◈ Chatbot IWS
 Support chatbot with a fine-tuned LLM, real-time messaging over WebSockets and automatic handover to human agents.
 
 `Python` `Django` `OpenAI` `Redis` `Docker`
@@ -79,7 +154,7 @@ Support chatbot with a fine-tuned LLM, real-time messaging over WebSockets and a
 </td>
 <td width="50%" valign="top">
 
-### Forum API
+### ◈ Forum API
 REST API for forum management — authentication, CRUD, DTO validation and entity relationships.
 
 `TypeScript` `NestJS` `Prisma` `SQLite`
@@ -90,71 +165,22 @@ REST API for forum management — authentication, CRUD, DTO validation and entit
 </tr>
 </table>
 
----
-
-## 🛠️ Tech Stack
-
-**Backend**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Architecture & Messaging**
-
-![Microservices](https://img.shields.io/badge/Microservices-4B5563?style=flat-square)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Cloud & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-
-**Data**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-
-**Testing**
-
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=2" width="100%" alt="" />
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=FelipeRibeiro12&show_icons=true&hide_border=true&theme=tokyonight&hide_title=true" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRibeiro12&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=FelipeRibeiro12&show_icons=true&hide_border=true&hide_title=true&bg_color=0B0E14&text_color=94A3B8&icon_color=A78BFA&ring_color=22D3EE" alt="GitHub stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRibeiro12&layout=compact&hide_border=true&bg_color=0B0E14&title_color=A78BFA&text_color=94A3B8" alt="Top languages" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=2" width="100%" alt="" />
 
-## 📫 Contact
+## `0x05` — Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeg-ribeiro)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:feliperibeiro.fr35@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4B5563?style=flat-square&logo=readdotcv&logoColor=white)](COLE_O_LINK_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0E14?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/felipeg-ribeiro)
+[![Email](https://img.shields.io/badge/Email-0B0E14?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:feliperibeiro.fr35@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-0B0E14?style=for-the-badge&logo=readdotcv&logoColor=A78BFA)](COLE_O_LINK_AQUI)
 
 <div align="center">
 
@@ -165,3 +191,5 @@ REST API for forum management — authentication, CRUD, DTO validation and entit
 </picture>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,55:6D28D9,100:0B0E14&height=110&section=footer" width="100%" alt="" />
