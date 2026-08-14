@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=TypeScript+%E2%80%A2+Go+%E2%80%A2+Java+%E2%80%A2+Solidity;APIs+and+distributed+systems;On-chain+and+off-chain" alt="TypeScript, Go, Java, Solidity — APIs and distributed systems, on-chain and off-chain" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=TypeScript+%E2%80%A2+Go+%E2%80%A2+Java+%E2%80%A2+Solidity;APIs+and+distributed+systems;On-chain+and+off-chain" alt="APIs, distributed systems, smart contracts" />
 
 <br><br>
 
@@ -51,7 +51,6 @@ contract Felipe {
 ![Hardhat](https://img.shields.io/badge/Hardhat-0B0E14?style=for-the-badge&logoColor=A78BFA)
 ![viem](https://img.shields.io/badge/viem-0B0E14?style=for-the-badge&logoColor=A78BFA)
 ![ethers.js](https://img.shields.io/badge/ethers.js-0B0E14?style=for-the-badge&logoColor=A78BFA)
-![Go](https://img.shields.io/badge/Go-0B0E14?style=for-the-badge&logo=go&logoColor=A78BFA)
 
 </div>
 
@@ -64,10 +63,10 @@ contract Felipe {
 <table>
 <tr><td width="150"><b>Backend</b></td><td>
 
-![Go](https://img.shields.io/badge/Go-0B0E14?style=flat-square&logo=go&logoColor=22D3EE)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0B0E14?style=flat-square&logo=typescript&logoColor=22D3EE)
 ![Node.js](https://img.shields.io/badge/Node.js-0B0E14?style=flat-square&logo=nodedotjs&logoColor=22D3EE)
 ![NestJS](https://img.shields.io/badge/NestJS-0B0E14?style=flat-square&logo=nestjs&logoColor=22D3EE)
+![Go](https://img.shields.io/badge/Go-0B0E14?style=flat-square&logo=go&logoColor=22D3EE)
 ![Java](https://img.shields.io/badge/Java-0B0E14?style=flat-square&logo=openjdk&logoColor=22D3EE)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0B0E14?style=flat-square&logo=springboot&logoColor=22D3EE)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-0B0E14?style=flat-square&logo=spring&logoColor=22D3EE)
